@@ -18,5 +18,4 @@
 
 ---
 
-
-[GitHub]((https://github.com/yuramayer/mipt-ds-math-24)) | Вопросы и идеи: [@botrqst](https://t.me/botrqst)
+[GitHub](https://github.com/yuramayer/mipt-ds-math-24) | Вопросы и идеи: [@botrqst](https://t.me/botrqst)
