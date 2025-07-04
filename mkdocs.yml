@@ -1,0 +1,22 @@
+site_name: МФТИ «Науки о данных» Математика
+theme:
+  name: material
+  language: ru
+
+nav:
+  - Главная: index.md
+  - Вступительные задания 22 года:
+      - Обзор: intro_22/index.md
+      - Вариант 1 (PDF): intro_22/intro_22_1.pdf
+      - Вариант 2 (PDF): intro_22/intro_22_2.pdf
+  - Вступительные задания 24 года:
+      - Обзор: intro_24/index.md
+      - Вариант 1 (PDF): intro_24/intro_24_1.pdf
+      - Вариант 2 (PDF): intro_24/intro_24_2.pdf
+      - Вариант 3 (PDF): intro_24/intro_24_3.pdf
+      - Вариант 4 (PDF): intro_24/intro_24_4.pdf
+  - 1 семестр 24 год:
+      - Обзор: sem_1/index.md
+      - Теорвер (PDF): sem_1/sem_1_probs.pdf
+      - Матстат и графы (PDF): sem_1/sem_2_stat.pdf
+  
